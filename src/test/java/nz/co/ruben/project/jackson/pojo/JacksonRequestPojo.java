@@ -86,6 +86,7 @@ public class JacksonRequestPojo {
     public static class Datum2 {
         @JsonProperty("id")
         private String id;
+        //Testing for credentials
         @JsonProperty("type")
         private String type;
     }
